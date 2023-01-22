@@ -63,3 +63,6 @@ while playgame == True:
     
   else:
     break
+print (hangman_art.logo)
+print ("")
+print ("Thank you for playing.")
